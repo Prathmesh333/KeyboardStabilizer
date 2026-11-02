@@ -1,0 +1,14 @@
+bin/
+artifacts/
+cleanup-backups/
+*.exe
+*.dll
+*.pdb
+*.clixml
+*.log
+*.local.ps1
+.vs/
+.vscode/
+.env
+.env.*
+!.env.example
